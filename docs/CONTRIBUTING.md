@@ -1,6 +1,18 @@
-# Contributing Guidelines
+# Contributing
 
 Thank you for considering contributing to our project! Please take a moment to review the following guidelines.
+
+## Basic Guidelines
+
+### Use an IDE.
+Specifically, IntelliJ IDEA. Download the (free) Community Edition of it [here](https://www.jetbrains.com/idea/download/). Some people use other tools, like VS Code, but I would personally not recommend them for Java development.
+
+### Always test your changes.
+Do not submit something without at least running the game to see if it compiles.  
+If you are submitting a new block, make sure it has a name and description, and that it works correctly in-game. If you are changing existing block mechanics, test them out first.
+
+### Do not make formatting PRs.
+It seems there are some minor formatting issues like trailing spaces, extra newlines, and empty indents. It would appreciate it if you could take a moment to address these. However, please refrain from sending one-line PRs just for formatting fixes. If you're making substantial code changes, feel free to tidy up the formatting around your modifications. Thank you for your attention to this matter!
 
 ## Reporting Issues
 
